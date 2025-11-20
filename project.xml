@@ -1,7 +1,2 @@
 <project name="hitech">
-	<targets>
-		<target name="full_view">
-			<display width="480" height="320" />
-		</target>
-	</targets>
 </project>
