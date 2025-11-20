@@ -1,6 +1,6 @@
 <project name="hitech">
 	<targets>
-		<target name="full_view">
+		<target name="hitech">
 			<display width="480" height="320" />
 		</target>
 	</targets>
